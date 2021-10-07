@@ -1,0 +1,70 @@
+﻿.customDiv {
+    padding-left: 20px;
+    padding-top: 10px;
+    margin: 3px;
+    min-height: 150px;
+    background-color: aliceblue;
+    font-size: large;
+}
+
+.form-control {
+max-width:300px;
+
+}
+
+.customDiv1 {
+    margin: 3px;
+    padding-top: 10px;
+    padding-left: 20px;
+    min-height: 150px;
+    padding-right: 20px;
+    font-size: small;
+    border-block: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+}
+
+.customDiv2 {
+    margin: 3px;
+    padding-left: 20px;
+    min-height: 412px;
+    background-color: aliceblue;
+    font-size: small;
+}
+.customDiv3 {
+    margin: 3px;
+    padding-left: 10px;
+    min-height: 100px;
+    background-color: aliceblue ;
+    font-size: Large;
+}
+.customDiv4 {
+    margin: 3px;
+    padding-left: 20px;
+    min-height: 200px;
+    background-color: aliceblue;
+    font-size: small;
+}
+.navbar-right {
+    text-align: right;
+    padding-right: 20px;
+    font-weight: 700;
+}
+.col
+{
+    background-color:powderblue;
+    padding-left:
+
+}
+.imgdtxt 
+{
+    text-align:center;
+}
+.topimg {
+    padding-top: 10px;
+    font-weight: 700;
+}
+.topimg1 {
+    font-weight: 700;
+}
+
